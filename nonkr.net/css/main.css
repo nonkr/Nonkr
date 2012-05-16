@@ -30,17 +30,17 @@ body {
 #hour {
 	position: absolute;
     margin-left: 941px;
-    margin-top: 0px;
+    margin-top: 0;
 }
 #min {
     position: absolute;
     margin-left: 1035px;
-    margin-top: 0px;
+    margin-top: 0;
 }
 #sec {
     position: absolute;
     margin-left: 1125px;
-    margin-top: 0px;
+    margin-top: 0;
 }
 
 #hour_text {
