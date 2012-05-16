@@ -3,7 +3,6 @@
  */
 
 (function () {
-	
 })();
 
 function $(element) {
@@ -15,8 +14,8 @@ function $(element) {
 	}
 	if (isString(element)) return document.getElementById(element);
 	return element;
-};
+}
 
 function isString(elem) {
 	return Object.prototype.toString.call(elem) === "[object String]";
-};
+}
